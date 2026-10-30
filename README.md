@@ -35,4 +35,3 @@ Se conserva el código original. Como próximos pasos: corregir el ejercicio de 
 ---
 
 [CS // Software Lab · Cristhian Storm](https://github.com/CristhianStorm)
-
